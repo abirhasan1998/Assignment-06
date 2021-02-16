@@ -23,6 +23,7 @@
   border-radius: 5px;
 }
 
+
 img {
   height: 400px;
   object-fit: cover;
@@ -63,4 +64,11 @@ img {
     height: 300px;
     width: 90%;
   }
+}
+
+header{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0 40px;
 }
